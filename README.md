@@ -1,2 +1,3 @@
 # Generating-Metadata-and-Pre-processing
-Generate metadata from a .csv or a .json file and pre-process it (dealing with anomalies and null values, Applying Normalisation) without external libraries. 
+Generate metadata from a .csv or a .json file and pre-process it (Dealing with Anomalies or Null values), including decision regarding which null values to fill or to drop.
+Applying Normalisation, Data Sorting and Validation without external libraries. 
